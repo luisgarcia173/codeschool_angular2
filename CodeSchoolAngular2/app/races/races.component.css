@@ -1,0 +1,16 @@
+.description {
+	color: #444;
+	font-size: small;
+}
+.price {
+	font-weight: bold;
+}
+.racing {
+	color: red;
+}
+h2 {
+  color: green;
+}
+p {
+  font-size: small;
+}
